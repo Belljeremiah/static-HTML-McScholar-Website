@@ -1,0 +1,52 @@
+h1 {
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    text-align: center;
+    margin: 25px 25px 200px 25px;
+}
+body {
+    background-color: black;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+text {
+    color: white;
+}
+div.footer-link-container {
+    text-align: center;
+    padding: 27px;
+    background-color: #9795a2c9;
+}
+button {
+    text-align: center;
+    padding: 21px 34px;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 600;
+    letter-spacing: 1px;
+    font-family: Source Code Pro;
+    font-size: 15px;
+    font-weight: 400;
+    font-style: normal;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    color: #1c1c1c;
+    background-color: #fff;
+    border-color: #fff;
+    background-color: black;
+    color: white;
+    border: 2px solid white;
+    transition-duration: 0.4s;
+}
+button:hover {
+    background-color: white;
+    color: black;
+}
+.button-flex-container {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    display: flex;
+    justify-content: center;
+}
